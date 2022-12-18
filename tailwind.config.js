@@ -1,5 +1,7 @@
 /** @type {import('tailwindcss').Config} */
+const colors = require('tailwindcss/colors')
 module.exports = {
+  darkMode: 'class',
   content: [
     './storage/framework/views/*.php',
     './resources/**/*.blade.php',
@@ -7,7 +9,11 @@ module.exports = {
     './resources/**/*.vue',
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        white: '#FFFFFF',
+    },
+    },
   },
   plugins: [require("./plugin")],
 }

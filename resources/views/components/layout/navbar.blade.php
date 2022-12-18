@@ -15,6 +15,7 @@
           <img
             src="{{ url('./img/logo-white.png') }}"
             alt="logo"
+            class=""
           />
           <span class="text-xl xl:text-2xl font-bold text-[#oc7187] dark:text-white">Byron Roby</span>
         </a>

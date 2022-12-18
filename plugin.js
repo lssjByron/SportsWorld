@@ -468,6 +468,7 @@ module.exports = plugin(
           "gray-2": "#F8FAFC",
           orange: "#F2994A",
           purple: "#9B51E0",
+          white: '#FFFFFF',
         },
         boxShadow: {
           two: "0px 1px 4px rgba(0, 0, 0, 0.12)",
