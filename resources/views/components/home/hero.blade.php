@@ -3,11 +3,11 @@
         <div class="flex flex-wrap -mx-4">
             <div class="w-full lg:w-5/12 px-4">
                 <div class="hero-content">
-                    <h1 class="text-dark dark:text-gray-200 font-bold text-4xl sm:text-[42px] lg:text-[40px] xl:text-[42px] leading-snug mb-6">
+                    <h1 class="text-white dark:text-gray-200 font-bold text-4xl sm:text-[42px] lg:text-[40px] xl:text-[42px] leading-snug mb-6">
                         My Name is Byron. <br />
                         I am a <span class="rounded-md text-amber-600">Full Stack Developer</span>
                     </h1>
-                    <p class="text-base mb-8 max-w-[520px]">
+                    <p class="text-base mb-8 max-w-[520px] text-white">
                         I am a developer with over 5+ years experience in the I.T. feild. <br/>
                         I've worked in a team with graphic designers and coders and have developed services from start to finish
                     </p>
