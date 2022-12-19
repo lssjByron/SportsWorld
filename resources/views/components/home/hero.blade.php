@@ -8,7 +8,7 @@
                         I am a <span class="rounded-md text-amber-600">Full Stack Developer</span>
                     </h1>
                     <p class="text-base mb-8 max-w-[520px] text-white">
-                        I am a developer with over 5+ years experience in the I.T. feild. <br/>
+                        I am a developer with over 5+ years experience in the I.T. field. <br/>
                         I've worked in a team with graphic designers and coders and have developed services from start to finish
                     </p>
                     <ul class="flex flex-wrap items-center">
