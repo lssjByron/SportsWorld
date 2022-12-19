@@ -5,7 +5,7 @@
             <span class="inline-flex items-center text-xl">
                 Follow me on Social Media
             </span>
-            <x-social-icons class="mb-0"></x-social-icons>
+            <x-social.social-icons class="mb-0"></x-social.social-icons>
         </div>
     </div>
     <div>
