@@ -13,7 +13,7 @@
                     </p>
                     <ul class="flex flex-wrap items-center">
                         <li>
-                            <x-button-link href="#portfolio" variant="primary" class="rounded-lg text-orange">
+                            <x-button-link href="#portfolio" variant="primary" class="rounded-lg">
                                 My Projects
                             </x-button-link>
                         </li>
