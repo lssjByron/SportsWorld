@@ -920,6 +920,10 @@ input[type="radio"]:checked ~ .box .circle {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
+.text-orange {
+  --tw-text-opacity: 1;
+  color: rgb(242 153 74 / var(--tw-text-opacity));
+}
 .antialiased {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
